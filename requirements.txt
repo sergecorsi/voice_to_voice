@@ -1,0 +1,8 @@
+wit
+vosk
+gtts
+pyaudio
+SpeechRecognition
+ipython
+requests
+pygame
